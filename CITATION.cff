@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the accompanying article below."
+title: "Topological Kuramoto model on cell complexes: reference implementation"
+type: software
+authors:
+  - given-names: Iva
+    family-names: "Bačić"
+    affiliation: "Forschungszentrum Jülich, Institute for Climate and Energy Systems (ICE-1)"
+    orcid: "https://orcid.org/0000-0003-2987-5065"
+version: 1.0.0
+date-released: "2026-06-18"
+url: "https://github.com/ibfzj/topological-kuramoto/"
+license: GPL-3.0-or-later
+keywords:
+  - topological Kuramoto model
+  - synchronization
+  - cell complexes
+  - simplicial complexes
+  - higher-order networks
+  - phase locking
+  - multistability
+  - winding numbers
+  - nonlinear dynamics
+preferred-citation:
+  type: article
+  title: "Phase locking and multistability in the topological Kuramoto model on cell complexes"
+  authors:
+    - given-names: Iva
+      family-names: Bačić
+    - given-names: "Michael T."
+      family-names: Schaub
+    - given-names: Jürgen
+      family-names: Kurths
+    - given-names: Dirk
+      family-names: Witthaut
+  journal: "Nature Communications"
+  year: 2026
+  doi: "10.48550/arXiv.2510.05831"
